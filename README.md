@@ -1,3 +1,5 @@
+# MIRROR ETH mVIXY-UST
+
 ## uniswap
 buy UST: 
 ```
@@ -45,4 +47,10 @@ contract sources :
 ```
 Uniswap mVIXY-UST pair: https://etherscan.io/address/0x6094367ea57ff4f545e2672e024393d82a1d3f28#code
 Mirror LPPool: https://etherscan.io/address/0xBC07342D01fF5D72021Bb4cb95F07C252e575309#code
+```
+
+stats (pay attention to your purchase price and your selling price of course):
+```
+mVIXY: https://v2.info.uniswap.org/token/0xf72fcd9dcf0190923fadd44811e240ef4533fc86
+pair: https://v2.info.uniswap.org/pair/0x6094367ea57ff4f545e2672e024393d82a1d3f28
 ```
