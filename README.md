@@ -40,3 +40,9 @@ use the approve function one time after that let it commented
 
 
 # donation : 0xCBfeAE7716B6d5Ef242A3180Cf67BB53Df34784C
+
+contract sources :
+```
+Uniswap mVIXY-UST pair: https://etherscan.io/address/0x6094367ea57ff4f545e2672e024393d82a1d3f28#code
+Mirror LPPool: https://etherscan.io/address/0xBC07342D01fF5D72021Bb4cb95F07C252e575309#code
+```
