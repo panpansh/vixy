@@ -1,4 +1,4 @@
-# MIRROR ETH mVIXY-UST
+# MIRROR ETH mVIXY-UST (for big wallets with a taste for risk)
 
 ## uniswap
 buy UST: 
