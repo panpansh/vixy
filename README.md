@@ -26,9 +26,9 @@ https://bafybeieuvilr42qkvycmae3y6y5le4ddwwu5ohenbofavih64gpgip2tce.ipfs.dweb.li
 ```
 npm install
 ```
-edit hardhat.config.js to insert your mnemonic or add the field for the private key
+**edit hardhat.config.js to insert your mnemonic or add the field for the private key**
 
-read and and comment/uncomment code when it it needed
+**read and and comment/uncomment code when it is needed**
 
 use the approve function one time after that let it commented
 
