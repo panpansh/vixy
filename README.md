@@ -40,6 +40,10 @@ use the approve function one time after that let it commented
 
 - use the exit function towithdraw LP + rewards
 
+then on demand
+```
+npm run script:vixy
+```
 
 # donation : 0xCBfeAE7716B6d5Ef242A3180Cf67BB53Df34784C
 
